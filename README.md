@@ -21,6 +21,4 @@
 
 ## Thougts
 
-#### Overall it was a pretty good experience even though I didn't get the result that I wanted. Getting the right data is very difficult and expensive. Even though stathead was pretty cheap. Other sites generally don't provide this much raw data, rahter they give already processed data with some important things clumped toghether. As most of those sites desingn their data to be used by sports analyst and not for prediction, and those who do make their data for predictions are also the ones selling those predictions for betting market so they don't provide historical data that could be used for training.  
-
-###I plan to retry it with hidden variable models.  
+#### Overall it was a pretty good experience even though I didn't get the result that I wanted. Getting the right data is very difficult and expensive. Even though stathead was pretty cheap. Other sites generally don't provide this much raw data, rahter they give already processed data with some important things clumped toghether. As most of those sites desingn their data to be used by sports analyst and not for prediction, and those who do make their data for predictions are also the ones selling those predictions for betting market so they don't provide historical data that could be used for training.  I plan to retry it with hidden variable models.  
