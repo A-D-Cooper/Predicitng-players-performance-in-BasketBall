@@ -19,6 +19,6 @@
 
 #### I used Nerual netwrok as it the most powerful method available for prediction and I have an RTX 3080 that I could use to train the said Neural Network. I tried a variety of hyperparameters and got better performance when I increased the number of layers and neurons but it flatlined pretty quick as well. For some reason I was getting much better result with absolute difference loss as opposed to squared difference loss. 
 
-## Thougts
+## Thoughts
 
 #### Overall it was a pretty good experience even though I didn't get the result that I wanted. Getting the right data is very difficult and expensive. Even though stathead was pretty cheap. Other sites generally don't provide this much raw data, rahter they give already processed data with some important things clumped toghether. As most of those sites desingn their data to be used by sports analyst and not for prediction, and those who do make their data for predictions are also the ones selling those predictions for betting market so they don't provide historical data that could be used for training.  I plan to retry it with hidden variable models.  
