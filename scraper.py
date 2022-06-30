@@ -18,8 +18,8 @@ driver = webdriver.Chrome("C:/SeleniumDrivers/chromedriver.exe")
 
 
 def login():
-    username = "AD1999"
-    password = "Iamdbcooper1971"
+    username = ####
+    password = ####
     driver.get("https://stathead.com/users/login.cgi")
     driver.implicitly_wait(30)
 
